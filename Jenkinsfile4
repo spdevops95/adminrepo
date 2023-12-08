@@ -6,3 +6,6 @@ def greet(name) {
 // Call the function
 greet("John")
 
+FROM ubuntu 
+
+RUN echo "this is my best command"
